@@ -14,7 +14,7 @@ export default function Home() {
             Unlimited films, TV programmes and more.
           </Feature.Title>
           <Feature.SubTitle>
-            Waatch anywehere. Cancel at any time.
+            Watch anywhere. Cancel at any time.
           </Feature.SubTitle>
           <OptForm>
             <OptForm.Input placeholder="Email address" />
