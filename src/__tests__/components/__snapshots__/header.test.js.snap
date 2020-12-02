@@ -9,7 +9,7 @@ exports[`<Header /> renders the basic <Header /> with a background 1`] = `
     class="header__Container-t8lkk2-0 ldufOW"
   >
     <p
-      class="header__TextLink-t8lkk2-8 bzLmkL"
+      class="header__TextLink-t8lkk2-8 iQHKZF"
     >
       Hello I am a link!
     </p>
@@ -22,7 +22,7 @@ exports[`<Header /> renders the basic <Header /> without a background 1`] = `
   class="header__Container-t8lkk2-0 ldufOW"
 >
   <p
-    class="header__TextLink-t8lkk2-8 isBjAr"
+    class="header__TextLink-t8lkk2-8 heyneF"
   >
     Hello I am a link!
   </p>
@@ -42,12 +42,12 @@ exports[`<Header /> renders the full <Header> with a background 1`] = `
       class="header__Group-t8lkk2-10 gKcLle"
     >
       <p
-        class="header__TextLink-t8lkk2-8 isBjAr"
+        class="header__TextLink-t8lkk2-8 heyneF"
       >
         Series
       </p>
       <p
-        class="header__TextLink-t8lkk2-8 isBjAr"
+        class="header__TextLink-t8lkk2-8 heyneF"
       >
         Films
       </p>
@@ -92,7 +92,7 @@ exports[`<Header /> renders the full <Header> with a background 1`] = `
               src="/images/users//images/karl.png.png"
             />
             <p
-              class="header__TextLink-t8lkk2-8 isBjAr"
+              class="header__TextLink-t8lkk2-8 heyneF"
             >
               Nazar Pidhrnyi
             </p>
@@ -101,7 +101,7 @@ exports[`<Header /> renders the full <Header> with a background 1`] = `
             class="header__Group-t8lkk2-10 gKcLle"
           >
             <p
-              class="header__TextLink-t8lkk2-8 isBjAr"
+              class="header__TextLink-t8lkk2-8 heyneF"
             >
               Sign out
             </p>

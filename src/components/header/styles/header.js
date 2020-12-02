@@ -23,7 +23,7 @@ export const Frame = styled.div``;
 export const Logo = styled.img`
   height: 32px;
   width: 108px;
-  margin-right: 40px;
+  margin-right: 180px;
 
   @media (min-width: 1449px) {
     height: 45px;
@@ -93,6 +93,7 @@ export const FeatureCallOut = styled.h2`
 
 export const TextLink = styled.p`
   color: white;
+  font-size: 26px;
   text-decoration: none;
   margin-right: 30px;
   font-weight: ${({ active }) => (active === "true" ? "700" : "normal")};
@@ -218,4 +219,4 @@ export const PlayButton = styled.button`
     background-color: #ff1e1e;
     color; white;
   }
-`
+`;
